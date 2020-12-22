@@ -10,4 +10,5 @@ Drivers for the board can be downloaded [here.](https://www.ftdichip.com/Drivers
 - FT232RL Based.
 - Uses the Kessec-made [Leapster Cartridge Library](https://github.com/kessec/leapster-cart)
 
-![3D Model](images/froggy.png)
+![3D Model Front](images/froggy.png)
+![3D Model Back](images/froggy-back.png)
