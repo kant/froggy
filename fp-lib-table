@@ -1,5 +1,4 @@
 (fp_lib_table
-  (lib (name SamacSys_Parts)(type KiCad)(uri C:/Users/Muki/Music/LibraryLoader/SamacSys_Parts.pretty)(options "")(descr ""))
-  (lib (name froggy)(type KiCad)(uri C:/Users/Muki/Music/Git/froggy)(options "")(descr ""))
   (lib (name Leapster)(type KiCad)(uri ${KIPRJMOD}/leapster-cart/Leapster.pretty)(options "")(descr ""))
+  (lib (name components)(type KiCad)(uri ${KIPRJMOD}/components)(options "")(descr ""))
 )

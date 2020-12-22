@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP 693071020811
+D WR-CRD Micro SD Card Connector
+K
+F https://katalog.we-online.com/em/datasheet/693071020811.pdf
+$ENDCMP
+#
+$CMP 504077-1891
+D Micro SD card Connector + detect switch Micro SD card Connector + detect switch
+K
+F 
+$ENDCMP
+#
+#End Doc Library

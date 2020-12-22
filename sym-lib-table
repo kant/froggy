@@ -1,5 +1,4 @@
 (sym_lib_table
-  (lib (name SamacSys_Parts)(type Legacy)(uri C:/Users/Muki/Music/LibraryLoader/SamacSys_Parts.lib)(options "")(descr ""))
-  (lib (name Type-C)(type Legacy)(uri //192.168.0.160/sambashare/KiCAD/Libraries/Type-C/Type-C.lib)(options "")(descr ""))
   (lib (name Leapster)(type Legacy)(uri ${KIPRJMOD}/leapster-cart/Leapster.lib)(options "")(descr ""))
+  (lib (name SamacSys_Parts)(type Legacy)(uri ${KIPRJMOD}/components/SamacSys_Parts.lib)(options "")(descr ""))
 )
