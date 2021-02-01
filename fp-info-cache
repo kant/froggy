@@ -1,4 +1,11 @@
-18998983681166681
+19104822630630636
+ATMEGA-32U4-MUR
+MCU-ATMEGA32U4-MUR_VQFN44
+
+
+0
+45
+45
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -56209,13 +56216,6 @@ Yellow 5381 Series LED
 0
 2
 2
-Leapster
-LEAPSTER_CART
-
-
-0
-32
-31
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -76299,27 +76299,6 @@ rotary encoder
 0
 5
 4
-SamacSys_Parts
-5040771891
-504077-1891
-Connector
-0
-16
-16
-SamacSys_Parts
-693071020811
-693071020811-1
-Connector
-0
-13
-13
-SamacSys_Parts
-NE555DR
-D (R-PDSO-G8)
-Integrated Circuit
-0
-8
-8
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -76789,6 +76768,426 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.25u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.25u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.25u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.25u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.50u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.50u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.75u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.75u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.75u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.75u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.00u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.00u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.25u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.25u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.25u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.25u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.50u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.50u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.75u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.75u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.75u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.75u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_3.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 3.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_3.00u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 3.00u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_4.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 4.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_4.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 4.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_5.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 5.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_6.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 6.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_6.00u_Offset
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 6.00u Offset
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_6.25u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 6.25u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_6.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 6.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_7.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 7.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_ISOEnter
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB ISOEnter
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_ISOEnter_Rotated90
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB ISOEnter
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_ISOEnter_Rotated180
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB ISOEnter
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_ISOEnter_Rotated270
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB ISOEnter
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 1.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.25u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 1.25u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.25u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 1.25u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 1.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.50u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 1.50u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.75u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 1.75u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.75u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 1.75u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 2.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.00u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 2.00u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.25u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 2.25u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.25u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 2.25u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 2.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.50u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 2.50u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.75u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 2.75u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.75u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 2.75u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_3.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 3.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_3.00u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 3.00u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_4.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 4.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_4.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 4.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_5.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 5.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_6.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 6.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_6.00u_Offset
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 6.00u Offset
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_6.25u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 6.25u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_6.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 6.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_7.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 7.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_ISOEnter
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate ISOEnter
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_ISOEnter_Rotated90
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate ISOEnter
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_ISOEnter_Rotated180
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate ISOEnter
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_ISOEnter_Rotated270
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate ISOEnter
+0
+2
+2
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
@@ -82284,6 +82683,69 @@ transformer flyback
 0
 10
 10
+Type-C
+12401598E4#2A
+
+
+0
+28
+28
+Type-C
+HRO-TYPE-C-31-M-12
+
+
+0
+16
+13
+Type-C
+HRO-TYPE-C-31-M-12-Assembly
+
+
+0
+16
+13
+Type-C
+HRO-TYPE-C-31-M-12-HandSoldering
+
+
+0
+16
+13
+Type-C
+HRO-TYPE-C-31-M-13
+
+
+0
+16
+13
+Type-C
+USB_C_GCT_USB4085
+
+
+0
+20
+17
+Type-C
+Wurth-632723300011
+
+
+0
+32
+27
+Type-C
+Wurth-632723300011-HandSoldering
+
+
+0
+30
+26
+Type-C
+Wurth-632723300011-MaximumExtensionMount
+
+
+0
+32
+27
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -83054,8 +83516,8 @@ varistor SIOV
 0
 2
 2
-froggy
-kessec-logo1
+components
+pain5-logo
 
 
 0
