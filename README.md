@@ -6,7 +6,7 @@ Drivers for the board can be downloaded [here.](https://www.ftdichip.com/Drivers
 ### Features
 - Micro-SD support.
 - Licensed under the [Solderpad Hardware License v2.1](https://solderpad.org/licenses/SHL-2.1/)
-- Virual Serial Port through USB-C.
+- Virtual Serial Port through USB-C.
 - FT232RL Based.
 - Uses the Kessec-made [Leapster Cartridge Library.](https://github.com/kessec/leapster-cart)
 
