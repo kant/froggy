@@ -1,5 +1,5 @@
 ## The Froggy Board
-Froggy is a cartidge pinout and expansion board for the Leapfrog Leapster devices. It is cross-compatible with any Leapster device that uses a Didj-style cartridge. Tested and confirmed to be functional on the Leapster Didj, Leapster Explorer, Leapster ExplorerGS, and the LeapPad Platinum.
+Froggy is a cartridge pinout and expansion board for the Leapfrog Leapster devices. It is cross-compatible with any Leapster device that uses a Didj-style cartridge. Tested and confirmed to be functional on the Leapster Didj, Leapster Explorer, Leapster ExplorerGS, and the LeapPad Platinum.
 
 Drivers for the board can be downloaded [here.](https://www.ftdichip.com/Drivers/VCP.htm)
 
